@@ -1,1 +1,1 @@
-Spree::Config.set(logo: "store/l_and_m.png")
+Spree::Config.set(logo: "store/aphex_75_logo.png")
